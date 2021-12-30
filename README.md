@@ -5,12 +5,6 @@ Line Of Control Surveillance System
 - Use case: Security Surveillance for in the beach/construction/Railway Station etc., in real-time.
 - Sending an alert to the authority if the people are Enterted the restricted area.
 
-## Object Detection (SSD)
-
-- **Single Shot:** this means that the tasks of object localization and classification are done in a single forward pass of the network
-- **MultiBox:** this is the name of a technique for bounding box regression
-- **Detector:** The network is an object detector that also classifies those detected objects
-
 ## Running Inference
 
 ````
@@ -24,3 +18,7 @@ pip install -r requirements.txt
 python detection.py
 
 ````
+
+### Demo
+
+https://www.youtube.com/watch?v=X5f6hujoHrA
